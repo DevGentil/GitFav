@@ -1,5 +1,9 @@
 # GitFav
 
+<p align="center">
+  <img alt="Print" src="./print.png" width="70%">
+</p>
+
 O GitFav é uma aplicação web que permite aos usuários buscar perfis do GitHub e salvá-los como favoritos de forma prática e rápida. O projeto foi estruturado com modernas práticas de desenvolvimento front-end, utilizando HTML, CSS e JavaScript para proporcionar uma experiência de usuário fluida e responsiva.
 
 ## Funcionalidades
@@ -18,19 +22,6 @@ O projeto é composto pelos seguintes arquivos principais:
 - `main.js`: Arquivo JavaScript principal que inicializa a visualização dos favoritos.
 - `GithubUser.js`: Define a classe que lida com a busca de usuários do GitHub via API.
 - `Favorites.js`: Gerencia a lógica de adicionar e remover usuários favoritos.
-
-## Uso
-
-Para adicionar um usuário aos favoritos:
-
-1. Digite o nome de usuário do GitHub no campo de busca.
-2. Pressione o botão de adição.
-3. O usuário será adicionado à lista de favoritos, caso exista.
-
-Para remover um usuário dos favoritos:
-
-1. Clique no botão de remoção (ícone de x) ao lado do usuário desejado.
-2. Confirme a remoção.
 
 ## Projeto finalizado
 - (https://devgentil.github.io/GitFav/)
